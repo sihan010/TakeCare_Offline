@@ -1,0 +1,7 @@
+{
+    "PendingAppointment":"Appointment:Pending",
+    "Language":"Startup:Language",
+    "Type":"Startup:UserType",
+    "User":"Startup:User",
+    "Doctor":"Startup:Doctor"
+}

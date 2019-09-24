@@ -1,0 +1,501 @@
+[
+    {
+        "name": "Accident & Emergency",
+        "subTitle": "Consultant",
+        "found": 1,
+        "doctors": [
+            {
+                "name": "Dr. Muhammad Hasan Andalib",
+                "degree": "MBBS (DMC), MRCP (UK)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "General Medicine",
+        "subTitle": "General Physician",
+        "found": 2,
+        "doctors": [
+            {
+                "name": "Dr. Mohammed Mohiuddin Araf",
+                "degree": "MBBS (India), MD (AIIMS, India)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant",
+                    "Coordinator"
+                ]
+            },
+            {
+                "name": "Dr. Monira Afroz",
+                "degree": "MBBS (DU), FCPS-1 (Medicine), BCS",
+                "chamber": "Dhaka Clinic, Tangail",
+                "rating":5,
+                "position": [
+                    "Register"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Blood",
+        "subTitle": "Hematology & Stem Cell",
+        "found": 2,
+        "doctors": [
+            {
+                "name": "Dr. Abu Jafar Mohammed Saleh",
+                "degree": "MBBS, FCPS (Hematology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant",
+                    "Coordinator"
+                ]
+            },
+            {
+                "name": "Prof. (Dr.) Md. Moniruzzaman",
+                "degree": "MBBS, GC (Pathology), MCPS (Clinical Pathology), FCPS (Haematology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Heart",
+        "subTitle": "Cardiology",
+        "found": 3,
+        "doctors": [
+            {
+                "name": "Dr. Shams Munwar",
+                "degree": "MBBS, MRCP (UK), D.Card (London)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Senior Consultant"
+                ]
+            },
+            {
+                "name": "Prof. Dr. A.Q.M. Reza",
+                "degree": "MBBS, MD (Cardiology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Coordinator",
+                    "Senior Consultant"
+                ]
+            },
+            {
+                "name": "Dr. Kazi Atiqur Rahman",
+                "degree": "MBBS, MD (Cardiology), MRCP (UK)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Senior Consultant"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Head",
+        "subTitle": "Neurologist",
+        "found": 4,
+        "doctors": [
+            {
+                "name": "Dr. Alim Akhtar Bhuiyan",
+                "degree": "MBBS, DTM & H (UK), MD (USA), Board Certified in Neurology (USA)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Coordinator",
+                    "Senior Consultant"
+                ]
+            },
+            {
+                "name": "Dr. Sandip Kumar Dash",
+                "degree": "MBBS, MD (Medicine), DNB (Medicine), DNB (Neuro), MNAMS, FRCP (Glasgow)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Senior Consultant"
+                ]
+            },
+            {
+                "name": "Prof. Dr. Uttam Kumar Saha",
+                "degree": "MBBS, MCPS, MD",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Senior Consultant"
+                ]
+            },
+            {
+                "name": "Dr. Khandker Mahbubar Rahman",
+                "degree": "MBBS, MD (Neurology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Senior Consultant"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Eye",
+        "subTitle": "Ophthalmologist",
+        "found": 1,
+        "doctors": [
+            {
+                "name": "Prof.Brig. Gen. (Dr.) Sayedur Rahman",
+                "degree": "MBBS, DO, FCPS, MCPS, FICO (UK)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Coordinator",
+                    "Senior Consultant"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ear",
+        "subTitle": "ENT doctors, Otolaryngologists",
+        "found": 1,
+        "doctors": [
+            {
+                "name": "Dr. A F M Ekramuddaula",
+                "degree": "MBBS, FCPS (ENT), MS (Otolaryngology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Nose",
+        "subTitle": "ENT doctors, Otolaryngologists",
+        "found": 1,
+        "doctors": [
+            {
+                "name": "Dr. A F M Ekramuddaula",
+                "degree": "MBBS, FCPS (ENT), MS (Otolaryngology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Throat",
+        "subTitle": "ENT doctors, Otolaryngologists",
+        "found": 1,
+        "doctors": [
+            {
+                "name": "Dr. A F M Ekramuddaula",
+                "degree": "MBBS, FCPS (ENT), MS (Otolaryngology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Chest",
+        "subTitle": "Respiratory, Pulmonary",
+        "found": 2,
+        "doctors": [
+            {
+                "name": "Dr. Chandra Prakash Dokwal",
+                "degree": "MBBS, MD (Chest Medicine)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Senior Consultant"
+                ]
+            },
+            {
+                "name": "Dr. SM Abdullah Al Mamun",
+                "degree": "MBBS, MCPS, MD (Chest)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Coordinator",
+                    "Senior Consultant"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Belly / Stomach",
+        "subTitle": "Gastroenterologist",
+        "found": 5,
+        "doctors": [
+            {
+                "name": "Dr. Lutful L. Chowdhury",
+                "degree": "MBBS, MRCP, FRCP",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Coordinator",
+                    "Senior Consultant"
+                ]
+            },
+            {
+                "name": "Prof. Dr. Hafeza Aftab",
+                "degree": "MBBS, MD (Gastroenterology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant"
+                ]
+            },
+            {
+                "name": "Dr. lqbal Murshed Kabir",
+                "degree": "MBBS (DMC), FCPS (Medicine), MD (Gastroenterology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant"
+                ]
+            },
+            {
+                "name": "Prof. Dr. Shamsuddin Mohammed Ishaque",
+                "degree": "MBBS, DTM, MD (Gastroenterology) Professor of Gastroenterology - BSMMU",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Senior Consultant"
+                ]
+            },
+            {
+                "name": "Prof. (Dr.) Saroj Kant Sinha",
+                "degree": "MBBS, MD (Medicine), DM (Gastroenterology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Senior Consultant"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bone",
+        "subTitle": "Orthopaedic",
+        "found": 3,
+        "doctors": [
+            {
+                "name": "Dr. Nandkumar Katakdhond",
+                "degree": "MBBS, MS (Orthopaedics)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Senior Consultant"
+                ]
+            },
+            {
+                "name": "Dr. M. Ali",
+                "degree": "MBBS, MS (Ortho.)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Coordinator",
+                    "Senior Consultant"
+                ]
+            },
+            {
+                "name": "Dr. Amit Kapoor",
+                "degree": "MBBS, DNB",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Skin",
+        "subTitle": "Dermatologist",
+        "found": 4,
+        "doctors": [
+            {
+                "name": "Dr. Jasmin Manzoor",
+                "degree": "MBBS, DDSc (UK), MDSc (USA)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Coordinator",
+                    "Senior Consultant"
+                ]
+            },
+            {
+                "name": "Professor Lt. Col. (Retd.) Dr. Q.M. Mahabub Ullah",
+                "degree": "MBBS, FRCP (Glasgow), DDV, MCPS, MD",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Senior Consultant"
+                ]
+            },
+            {
+                "name": "Prof. (Dr.) Hasibur Rahman",
+                "degree": "MBBS, FCPS (Dermatology & VD), MRCPS (Glasg.), FACP (USA), FRCP (Edin.)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant"
+                ]
+            },
+            {
+                "name": "Dr. Rubaiya Ali",
+                "degree": "MBBS, Diploma in Dermatology and Venereology, FCPS (Dermatology and Venereology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kidney",
+        "subTitle": "Nephrologist",
+        "found": 4,
+        "doctors": [
+            {
+                "name": "Dr. Fahmida Begum",
+                "degree": "MBBS, MD (Nephrology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant"
+                ]
+            },
+            {
+                "name": "Dr. Md. Nabiul Hassan (Rana)",
+                "degree": "MBBS (DMC), MD (Nephrology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Coordinator",
+                    "Senior Consultant"
+                ]
+            },
+            {
+                "name": "Associate Prof. Dr. KBM. Hadiuzzaman",
+                "degree": "MBBS, MD (Nephrology) (BSMMU)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant"
+                ]
+            },
+            {
+                "name": "Prof. Dr. Md. Masum Kamal Khan",
+                "degree": "MBBS (DMC), FCPS (Medicine), MD (Nephrology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Senior Consultant"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Liver",
+        "subTitle": "Hepatologist",
+        "found": 3,
+        "doctors": [
+            {
+                "name": "Dr. Lutful L. Chowdhury",
+                "degree": "MBBS, MRCP, FRCP",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Coordinator",
+                    "Senior Consultant"
+                ]
+            },
+            {
+                "name": "Prof. Dr. Hafeza Aftab",
+                "degree": "MBBS, MD (Gastroenterology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Coordinator"
+                ]
+            },
+            {
+                "name": "Dr. lqbal Murshed Kabir",
+                "degree": "MBBS (DMC), FCPS (Medicine), MD (Gastroenterology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Women",
+        "subTitle": "Gynecologist",
+        "found": 1,
+        "doctors": [
+            {
+                "name": "Prof. Dr. Sangjukta Saha",
+                "degree": "MBBS, MS (Obs & Gynae",
+                "chamber": "Labaid Specialized Hospital",
+                "rating":5,
+                "position": [
+                    "Professor & Head"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Men",
+        "subTitle": "Urologists, Male Reproductive System",
+        "found": 3,
+        "doctors": [
+            {
+                "name": "Dr. ATM Mowlada Chowdhury",
+                "degree": "MBBS, MS (Urology), FCPS (Surgery), MRCS (Edin), MRCPS (Glasgow)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant"
+                ]
+            },
+            {
+                "name": "Dr. M. Zahid Hasan",
+                "degree": "MBBS, MS (Urology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant"
+                ]
+            },
+            {
+                "name": "Dr. Mir Ehteshamul Haque",
+                "degree": "MBBS, MS (Urology)",
+                "chamber": "Apollo Hospitals, Dhaka",
+                "rating":5,
+                "position": [
+                    "Consultant"
+                ]
+            }
+        ]
+    }
+]
